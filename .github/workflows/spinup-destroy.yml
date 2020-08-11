@@ -15,6 +15,7 @@ env:
   ### REPLACE USERNAME WITH GH USERNAME         ###
   AZURE_WEBAPP_NAME: praneetcsa-ttt-app
   #################################################
+  ##### Lest test deploying on azure###############  
 
 jobs:
   setup-up-azure-resources:
